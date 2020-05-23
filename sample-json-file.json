@@ -1,0 +1,63 @@
+{
+  [
+    {
+      "aktifMi": true,
+      "barinakModel": {
+        "aktifMi": true,
+        "boshayvanKapasitesi": 50,
+        "createAt": "2020-05-23T21:55:40.930Z",
+        "create_at": "2020-05-23T21:55:40.930Z",
+        "hayvanKapasitesi": 150,
+        "id": 1,
+        "ismi": "Ýstanbul Barýnaðý",
+        "kalanyemMiktari": 10,
+        "updateAt": "2020-05-23T21:55:40.930Z",
+        "update_at": "2020-05-23T21:55:40.930Z",
+        "userModel": {
+          "adres": "string",
+          "createAt": "2020-05-23T21:55:40.930Z",
+          "create_at": "2020-05-23T21:55:40.931Z",
+          "email": "string",
+          "enabled": true,
+          "firstName": "string",
+          "id": 0,
+          "lastName": "string",
+          "password": "string",
+          "phone": "string",
+          "profil": "string",
+          "roleEnum": "Gönüllü",
+          "tc": "string",
+          "telefonYedek": "string",
+          "updateAt": "2020-05-23T21:55:40.931Z",
+          "update_at": "2020-05-23T21:55:40.931Z",
+          "userName": "string"
+        },
+        "yemKapasitesi": 0
+      },
+      "createAt": "2020-05-23T21:55:40.931Z",
+      "create_at": "2020-05-23T21:55:40.931Z",
+      "egitimlimi": true,
+      "id": 1,
+      "ismi": "Köpek",
+      "resim": "string",
+      "tipModel": {
+        "aktifMi": true,
+        "createAt": "2020-05-23T21:55:40.931Z",
+        "create_at": "2020-05-23T21:55:40.931Z",
+        "id": 1,
+        "ismi": "Dogo",
+        "updateAt": "2020-05-23T21:55:40.931Z",
+        "update_at": "2020-05-23T21:55:40.931Z"
+      },
+      "updateAt": "2020-05-23T21:55:40.931Z",
+      "update_at": "2020-05-23T21:55:40.931Z",
+      "uysalmi": true,
+      "yas": 10-12
+    }
+  ]
+
+}
+
+
+
+
